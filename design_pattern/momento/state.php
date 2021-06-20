@@ -1,4 +1,5 @@
 <?php
+//Memento:-
 class State{
     private $content;
     public function __construct($content)
